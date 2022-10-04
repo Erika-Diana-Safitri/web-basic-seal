@@ -1,0 +1,41 @@
+body {
+    background-color: #D3DEDC;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 100%;
+    padding: 50px;
+    color: dimgray;
+} 
+
+/* Judul */
+h1 {
+    color: #576F72;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+    color:#576F72;
+}
+
+/* Pengaturan Table */
+table, tr, td, th {
+    border: 4px solid white;
+    padding: 8px 10px;
+    background-color: #F9F9F9;
+    font-family: sans-serif;
+    color: rgb(71, 69, 69);
+    border-collapse: collapse;
+    font-family: serif;
+}
+
+/* Pengaturan form */
+input[type=submit] {
+    background-color: #F9F9F9;
+    border: none;
+    color: white;
+    padding: 8px 13px;
+    text-decoration: slategrey;
+  }
+div {
+    padding: 22px;
+  }
