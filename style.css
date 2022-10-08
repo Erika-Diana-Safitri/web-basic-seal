@@ -27,15 +27,3 @@ table, tr, td, th {
     border-collapse: collapse;
     font-family: serif;
 }
-
-/* Pengaturan form */
-input[type=submit] {
-    background-color: #F9F9F9;
-    border: none;
-    color: white;
-    padding: 8px 13px;
-    text-decoration: slategrey;
-  }
-div {
-    padding: 22px;
-  }
