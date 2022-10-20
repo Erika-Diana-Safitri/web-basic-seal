@@ -58,19 +58,3 @@ header > img {
   width: 200px;
 
 }
-
-/* tablet*/
-
-@media (min-width: 576px){
-  header > img {
-
-  }
-}
-
-/* pc*/
-
-@media (min-width: 992px){
-  header > img {
-
-  }
-}
